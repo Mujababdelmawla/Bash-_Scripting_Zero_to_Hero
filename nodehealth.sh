@@ -5,7 +5,7 @@
 # Author: Mujab
 #
 #
-# Date: 25/03/2026
+# Date: 25-03
 #
 #
 # this script outputs node health
