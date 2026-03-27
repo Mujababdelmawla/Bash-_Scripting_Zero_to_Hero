@@ -1,0 +1,15 @@
+mujab 25  graduated 
+moustafa 23 graduated
+mujeeb 20 uni 
+muhsen 17 high school
+maria 12 basic level school
+munzir 2 kids
+
+
+
+
+grep m file1.txt
+
+awk '{print$1}' file1.txt
+
+sed 's/mu/mo' file1.txt 
